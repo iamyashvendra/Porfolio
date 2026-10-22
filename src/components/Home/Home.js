@@ -67,7 +67,7 @@ function Home() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://x.com/iamyashvendra"
                   target="_blank"
@@ -76,7 +76,7 @@ function Home() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/jadaun-yashvendra/"
